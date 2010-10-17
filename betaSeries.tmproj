@@ -3,88 +3,77 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>Developer/project/betaseries/class/betaserie.php</string>
+	<string>../../../Sites/Betaserie Api/subtitles.php</string>
 	<key>documents</key>
 	<array>
 		<dict>
 			<key>expanded</key>
 			<true/>
 			<key>name</key>
-			<string>class</string>
+			<string>Betaserie Api</string>
 			<key>regexFolderFilter</key>
 			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
 			<key>sourceDirectory</key>
-			<string>class</string>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>README</string>
-			<key>lastUsed</key>
-			<date>2010-10-17T00:41:10Z</date>
-		</dict>
-		<dict>
-			<key>filename</key>
-			<string>class/subtitles.php</string>
-			<key>lastUsed</key>
-			<date>2010-10-17T00:41:43Z</date>
+			<string>../../../Sites/Betaserie Api</string>
 		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
 	<integer>200</integer>
 	<key>metaData</key>
 	<dict>
-		<key>Developer/project/betaseries/README</key>
+		<key>../../../Sites/Betaserie Api/class/betaserie.php</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>11</integer>
 				<key>line</key>
-				<integer>0</integer>
+				<integer>24</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>Developer/project/betaseries/class/betaserie.php</key>
+		<key>../../../Sites/Betaserie Api/subtitles.php</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>29</integer>
+				<integer>37</integer>
 				<key>line</key>
-				<integer>16</integer>
+				<integer>13</integer>
 			</dict>
+			<key>columnSelection</key>
+			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
-		</dict>
-		<key>Developer/project/betaseries/class/subtitles.php</key>
-		<dict>
-			<key>caret</key>
+			<key>selectFrom</key>
 			<dict>
 				<key>column</key>
 				<integer>0</integer>
 				<key>line</key>
-				<integer>10</integer>
+				<integer>0</integer>
 			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<key>selectTo</key>
+			<dict>
+				<key>column</key>
+				<integer>37</integer>
+				<key>line</key>
+				<integer>13</integer>
+			</dict>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>Developer/project/betaseries/README</string>
-		<string>Developer/project/betaseries/class/betaserie.php</string>
-		<string>Developer/project/betaseries/class/subtitles.php</string>
+		<string>../../../Sites/Betaserie Api/class/betaserie.php</string>
+		<string>../../../Sites/Betaserie Api/subtitles.php</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{61, 70}, {603, 808}}</string>
+	<string>{{665, -48}, {603, 808}}</string>
 </dict>
 </plist>
