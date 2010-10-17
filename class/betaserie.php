@@ -271,7 +271,7 @@ class betaSerie {
 			else if ($this->cat === 4)
 			{
 				$array = array();
-				if (!($login))
+				if (!(isset($login)))
 					$array = array('token' => $this->token);
 				return $this->request('member'.($login ? '/'.$login : ''), $array);
 			}
@@ -308,7 +308,7 @@ class betaSerie {
 			if ($this->cat === 3)
 			{
 				$array = array();
-				if (isset($login) && !($login))
+				if (!(isset($login)))
 					$array = array('token' => $this->token);
 				return $this->request('infos'.($login ? '/'.$login : ''), $array);
 			}
@@ -387,7 +387,7 @@ class betaSerie {
 	
 	public function setToken($token)
 	{
-		$this->token = $key;
+		$this->token = $token;
 	}
 	
 	public function setCat($cat)

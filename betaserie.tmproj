@@ -3,9 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>../../../Sites/Betaserie Api/subtitles.php</string>
+	<string>Developer/project/betaseries/class/betaserie.php</string>
 	<key>documents</key>
 	<array>
+		<dict>
+			<key>expanded</key>
+			<true/>
+			<key>name</key>
+			<string>betaseries</string>
+			<key>regexFolderFilter</key>
+			<string>!.*/(\.[^/]*|CVS|_darcs|_MTN|\{arch\}|blib|.*~\.nib|.*\.(framework|app|pbproj|pbxproj|xcode(proj)?|bundle))$</string>
+			<key>sourceDirectory</key>
+			<string></string>
+		</dict>
 		<dict>
 			<key>expanded</key>
 			<true/>
@@ -21,59 +31,43 @@
 	<integer>200</integer>
 	<key>metaData</key>
 	<dict>
-		<key>../../../Sites/Betaserie Api/class/betaserie.php</key>
+		<key>Developer/project/betaseries/class/betaserie.php</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>11</integer>
+				<integer>0</integer>
 				<key>line</key>
-				<integer>24</integer>
+				<integer>14</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
 		</dict>
-		<key>../../../Sites/Betaserie Api/subtitles.php</key>
+		<key>Sites/Betaserie Api/class/betaserie.php</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>37</integer>
+				<integer>39</integer>
 				<key>line</key>
-				<integer>13</integer>
+				<integer>27</integer>
 			</dict>
-			<key>columnSelection</key>
-			<false/>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
 			<integer>0</integer>
-			<key>selectFrom</key>
-			<dict>
-				<key>column</key>
-				<integer>0</integer>
-				<key>line</key>
-				<integer>0</integer>
-			</dict>
-			<key>selectTo</key>
-			<dict>
-				<key>column</key>
-				<integer>37</integer>
-				<key>line</key>
-				<integer>13</integer>
-			</dict>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>../../../Sites/Betaserie Api/class/betaserie.php</string>
-		<string>../../../Sites/Betaserie Api/subtitles.php</string>
+		<string>Sites/Betaserie Api/class/betaserie.php</string>
+		<string>Developer/project/betaseries/class/betaserie.php</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{665, -48}, {603, 808}}</string>
+	<string>{{724, 45}, {710, 825}}</string>
 </dict>
 </plist>
