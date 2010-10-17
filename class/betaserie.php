@@ -3,7 +3,7 @@
 /*
 **
 ** Stated : 14/10/2010 22:36 - Frenchlabs
-** Updated: 14/10/2010 22:36 - Frenchlabs
+** Updated: 17/10/2010 2:30 - Frenchlabs
 **
 ** Writtend by Julien Di Marco <juliendimarco@me.com>
 **
@@ -13,11 +13,6 @@
 ** betaSeries Class
 */
 
-$api = new betaSerie('c2fe59daa95d');
-
-$return = $api->subtitles()->last('chuck');
-
-echo '<pre>'; print_r($return); echo '</pre>';
 class betaSerie {
 	private $domain = 'api.betaseries.com';
 	
